@@ -1,0 +1,6 @@
+Cartera de Teste 01:
+
+Carteira Gerada
+Endereço: mpNJfrdqgRDtC5avNv4DX9RJqLgY1Lept7
+Chave privada (WIF): cMd4tPYydEJJui8sT8ipPFawM6zqZTiR4EQk2Rir8wyws15caYMH
+Seed (mnemonic): swift couch garbage siege balcony brief test switch town today panda sibling
